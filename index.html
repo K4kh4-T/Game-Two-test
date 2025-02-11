@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Unity Web Player | SessionManager</title>
+    <title>Unity Web Player | tank-game</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
   </head>
@@ -20,7 +20,7 @@
       <div id="unity-footer">
         <div id="unity-logo-title-footer"></div>
         <div id="unity-fullscreen-button"></div>
-        <div id="unity-build-title">SessionManager</div>
+        <div id="unity-build-title">tank-game</div>
       </div>
     </div>
     <script>
@@ -52,16 +52,16 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/Game-Two-test.loader.js";
+      var loaderUrl = buildUrl + "/TankGame.loader.js";
       var config = {
         arguments: [],
-        dataUrl: buildUrl + "/Game-Two-test.data",
-        frameworkUrl: buildUrl + "/Game-Two-test.framework.js",
-        codeUrl: buildUrl + "/Game-Two-test.wasm",
+        dataUrl: buildUrl + "/TankGame.data",
+        frameworkUrl: buildUrl + "/TankGame.framework.js",
+        codeUrl: buildUrl + "/TankGame.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
-        productName: "SessionManager",
-        productVersion: "1.0",
+        productName: "tank-game",
+        productVersion: "0.1.0",
         showBanner: unityShowBanner,
       };
 
