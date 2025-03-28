@@ -1,0 +1,160 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="CountryCodeDropdown" preserve="all" />
+    <type fullname="HyveSdk.Web3LoginUi" preserve="all" />
+    <type fullname="HyveServer.BrowsedFriendUi" preserve="all" />
+    <type fullname="HyveServer.ChatMessageUi" preserve="all" />
+    <type fullname="HyveServer.FriendInviteUi" preserve="all" />
+    <type fullname="HyveServer.FriendsPartyPanel" preserve="all" />
+    <type fullname="HyveServer.InvitesPanel" preserve="all" />
+    <type fullname="HyveServer.LeaderboardUi" preserve="all" />
+    <type fullname="HyveServer.LeaderboardUiItem" preserve="all" />
+    <type fullname="HyveServer.LeaderboardUiItemPlayer" preserve="all" />
+    <type fullname="HyveServer.LobbyChatUi" preserve="all" />
+    <type fullname="HyveServer.ManageFriendsPanel" preserve="all" />
+    <type fullname="HyveServer.MenuFriendsPanel" preserve="all" />
+    <type fullname="HyveServer.MenuFriendUi" preserve="all" />
+    <type fullname="HyveServer.MenuPartyUiHandler" preserve="all" />
+    <type fullname="HyveServer.PartyInviteUi" preserve="all" />
+    <type fullname="HyveServer.PartyUserUi" preserve="all" />
+    <type fullname="InformationPopup" preserve="all" />
+    <type fullname="InviteNotification" preserve="all" />
+    <type fullname="LeaderBoardRewardView" preserve="all" />
+    <type fullname="LoadingAnim" preserve="all" />
+    <type fullname="LoadingPopup" preserve="all" />
+    <type fullname="RuntimeUi" preserve="all" />
+    <type fullname="ShareButton" preserve="all" />
+    <type fullname="ToastNotifications" preserve="all" />
+    <type fullname="ToastScript" preserve="all" />
+    <type fullname=".PopupColors" preserve="nothing" serialized="true" />
+    <type fullname="HyveServer.PartyTab" preserve="nothing" serialized="true" />
+    <type fullname="HyveServer.PartyView" preserve="nothing" serialized="true" />
+    <type fullname="HyveServer.PartyViewButton" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Thirdweb.Plugins, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="WalletConnectUnity.Modal.Views.ApprovalView" preserve="all" />
+    <type fullname="WalletConnectUnity.Modal.Views.ApprovalViewTabsController" preserve="all" />
+    <type fullname="WalletConnectUnity.Modal.Views.ConnectView" preserve="all" />
+    <type fullname="WalletConnectUnity.Modal.Views.DeepLinkPage" preserve="all" />
+    <type fullname="WalletConnectUnity.Modal.Views.QRCodePage" preserve="all" />
+    <type fullname="WalletConnectUnity.Modal.Views.WalletSearchView" preserve="all" />
+    <type fullname="WalletConnectUnity.Modal.Views.WebAppPage" preserve="all" />
+    <type fullname="WalletConnectUnity.Modal.WalletConnectModal" preserve="all" />
+    <type fullname="WalletConnectUnity.UI.OrientationTracker" preserve="all" />
+    <type fullname="WalletConnectUnity.UI.WCButton" preserve="all" />
+    <type fullname="WalletConnectUnity.UI.WCGridLayoutGroup" preserve="all" />
+    <type fullname="WalletConnectUnity.UI.WCInputField" preserve="all" />
+    <type fullname="WalletConnectUnity.UI.WCListSelect" preserve="all" />
+    <type fullname="WalletConnectUnity.UI.WCLoadingAnimator" preserve="all" />
+    <type fullname="WalletConnectUnity.UI.WCModal" preserve="all" />
+    <type fullname="WalletConnectUnity.UI.WCModalHeader" preserve="all" />
+    <type fullname="WalletConnectUnity.UI.WCSnackbar" preserve="all" />
+    <type fullname="WalletConnectUnity.UI.WCTabButton" preserve="all" />
+    <type fullname="WalletConnectUnity.UI.WCTabsBar" preserve="all" />
+    <type fullname="WebGLSupport.WebGLInputMobile" preserve="all" />
+    <type fullname="WalletConnectUnity.Core.Utils.SerializableDictionary`2" preserve="nothing" serialized="true" />
+    <type fullname="WalletConnectUnity.Modal.ViewType" preserve="nothing" serialized="true" />
+    <type fullname="WalletConnectUnity.Modal.Views.ApprovalViewTabsController/ConnectionTypeToTabPageDictionary" preserve="nothing" serialized="true" />
+    <type fullname="WalletConnectUnity.UI.ComponentState" preserve="nothing" serialized="true" />
+    <type fullname="WalletConnectUnity.UI.TransformConfig" preserve="nothing" serialized="true" />
+    <type fullname="WalletConnectUnity.UI.WCButton/Config" preserve="nothing" serialized="true" />
+    <type fullname="WalletConnectUnity.UI.WCSnackbar/Config" preserve="nothing" serialized="true" />
+    <type fullname="WalletConnectUnity.UI.WCSnackbar/Type" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_Dropdown" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.TMP_InputField" preserve="all" />
+    <type fullname="TMPro.TMP_SpriteAsset" preserve="all" />
+    <type fullname="TMPro.TMP_StyleSheet" preserve="all" />
+    <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/DropdownEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/OptionData" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/OptionDataList" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TextSelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TouchScreenKeyboardEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_SpriteCharacter" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_SpriteGlyph" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Style" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Animator" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.Outline" preserve="all" />
+    <type fullname="UnityEngine.UI.RawImage" preserve="all" />
+    <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Toggle" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextCoreFontEngineModule">
+    <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.LowLevel.GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.LowLevel.GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.LowLevel.GlyphValueRecord" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>
